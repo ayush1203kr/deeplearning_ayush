@@ -12,5 +12,3 @@ sklearn
 glob
 OpenCV
 
-Conclusion
-DenseNet model performs better comparative to other models used on the above dataset.
